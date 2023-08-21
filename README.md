@@ -28,15 +28,13 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 - Node.js
 - Java
 ### Databases and Servers
-- PostgreSQL
-- MongoDB
+- SQL
 - Apache
 - Nginx
 ### DevOps
 - Bash
 - Git / Github
 - Docker
-- Kubernetes
 ### Soft Skills
 - Resilience
 - Communication
