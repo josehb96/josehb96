@@ -42,3 +42,5 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 - Communication
 - Critical thinking
 - Teamwork
+
+Note: I have experience in other technologies, but these are my preference.
