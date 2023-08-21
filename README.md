@@ -3,6 +3,12 @@
 ## 🚀 About Me
 I'm a Junior Backend Developer.
 
+I focus on crafting solid software solutions in the backend programming area.
+
+I’m laser-focused on personal and professional development both in the area of software and in other areas of life.
+
+I am a graduate of the University of Alicante in Computer Engineering with a specialization in Information Technologies.
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josehurtadobaeza.super.site/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-hurtado-baeza-5406b4223/)
@@ -16,22 +22,22 @@ I'm a Junior Backend Developer.
 📫 How to reach me -> josehurtadobaeza@gmail.com
 
 ## 🛠 Skills
-# Programming Languages
+### Programming Languages
 - Python
 - Golang
 - Node.js
 - Java
-# Databases and Servers
+### Databases and Servers
 - PostgreSQL
 - MongoDB
 - Apache
 - Nginx
-# DevOps
+### DevOps
 - Bash
 - Git / Github
 - Docker
 - Kubernetes
-# Soft Skills
+### Soft Skills
 - Resilience
 - Communication
 - Critical thinking
