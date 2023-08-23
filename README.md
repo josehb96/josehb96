@@ -17,7 +17,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on a taxi driver website.
 
-🧠 I'm currently learning about SOLID principles. -> [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josehurtadobaeza.super.site/blog)
+🧠 I'm currently learning about SOLID principles. (You can check my blog section in my portfolio to see what I'm doing)
 
 📫 How to reach me -> josehurtadobaeza@gmail.com
 
