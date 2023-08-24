@@ -15,7 +15,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on a taxi driver website.
+👩‍💻 I'm currently working on my SOLID-project.
 
 🧠 I'm currently learning about SOLID principles. (You can check my blog section in my portfolio to see what I'm doing)
 
