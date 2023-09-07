@@ -1,4 +1,4 @@
-# Hi, I'm Jose! 👋
+# Hi, I'm Jose Hurtado Baeza! 👋
 
 ## 🚀 About Me
 I'm a Junior Backend Developer.
