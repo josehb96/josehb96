@@ -15,9 +15,9 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on the course of Node.js and Express.js
+👩‍💻 I'm currently working on the course of Golang.
 
-🧠 I'm currently learning about Node.js and Express.js (You can check the blog section in my portfolio to see what I'm doing)
+🧠 I'm currently learning about Golang (You can check the blog section in my portfolio to see what I'm doing)
 
 📫 How to reach me -> josehurtadobaeza@gmail.com
 
