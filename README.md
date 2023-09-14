@@ -15,7 +15,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on a mini React tutorial.
+👩‍💻 I'm currently working on a React and Golang JWT Authentication.
 
 🧠 I'm currently learning about Golang (You can check the blog section in my portfolio to see what I'm doing)
 
