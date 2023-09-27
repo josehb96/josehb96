@@ -15,7 +15,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on code and deploy a serveless API using Go and AWS.
+👩‍💻 I'm currently working on build 11 different projects to improve my Go programming skills.
 
 🧠 I'm currently specializing in Golang (You can check the blog section in my portfolio to see what I'm doing)
 
