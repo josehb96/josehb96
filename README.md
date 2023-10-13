@@ -23,10 +23,10 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 
 ## 🛠 Skills
 ### Programming Languages
+- Go / Golang
 - Python
-- Golang
 - Node.js & Express
-- Java
+- HTML, CSS/SASS, JavaScript
 ### Databases and Servers
 - SQL
 - Apache
