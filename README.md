@@ -29,6 +29,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 - HTML, CSS/SASS, JavaScript
 ### Databases and Servers
 - SQL
+- NoSQL (MongoDB)
 - Apache
 - Nginx
 ### DevOps
