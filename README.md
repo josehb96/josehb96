@@ -15,9 +15,9 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on build 11 different projects to improve my Go programming skills.
+👩‍💻 I'm currently working on a course to increase my level with Golang where I am solving 168 challenges and quizes and 7 Golang projects.
 
-🧠 I'm currently specializing in Golang (You can check the blog section in my portfolio to see what I'm doing)
+🧠 I'm currently specializing in Backend development with Golang (You can check the blog section in my portfolio to see what I'm doing)
 
 📫 How to reach me -> josehurtadobaeza@gmail.com
 
