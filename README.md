@@ -39,7 +39,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 ### Soft Skills
 - Curiosity
 - Communication
-- Critical thinking
-- Teamwork
+- Critical Thinking
+- Continuous Learning
 
 Note: I have experience in other technologies, but these are my preference.
