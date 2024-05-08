@@ -37,7 +37,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 - Git / Github
 - Docker
 ### Soft Skills
-- Resilience
+- Curiosity
 - Communication
 - Critical thinking
 - Teamwork
