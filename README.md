@@ -1,7 +1,7 @@
 # Hi, I'm Jose Hurtado Baeza! 👋
 
 ## 🚀 About Me
-I'm a Junior Backend Developer.
+I'm a Computer Engineer.
 
 I focus on crafting solid software solutions in the backend programming area.
 
@@ -15,7 +15,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on a course to increase my level with Golang where I am solving 168 challenges and quizes and 7 Golang projects.
+👩‍💻 I'm currently working on a website project for a mechanical and body and paint workshop company.
 
 🧠 I'm currently specializing in Backend development with Golang (You can check the blog section in my portfolio to see what I'm doing)
 
@@ -24,11 +24,9 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 ## 🛠 Skills
 ### Programming Languages
 - Go / Golang
-- Python
-- Node.js & Express
 - HTML, CSS/SASS, JavaScript
 ### Databases and Servers
-- SQL
+- SQL (PostgreSQL)
 - NoSQL (MongoDB)
 - Apache
 - Nginx
