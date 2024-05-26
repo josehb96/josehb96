@@ -14,7 +14,7 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-hurtado-baeza-5406b4223/)
 
 
-## Other Common Github Profile Sections
+## More about me
 👩‍💻 I'm currently working on a website project for a mechanical and body and paint workshop company.
 
 🧠 I'm currently specializing in Backend development with Golang (You can check the blog section in my portfolio to see what I'm doing)
