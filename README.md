@@ -26,8 +26,8 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 - Go / Golang
 - HTML, CSS/SASS, JavaScript
 ### Databases and Servers
-- SQL (PostgreSQL)
-- NoSQL (MongoDB)
+- SQL
+- NoSQL
 - Apache
 - Nginx
 ### DevOps
