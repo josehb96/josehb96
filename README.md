@@ -1,7 +1,8 @@
 # Hi, I'm Jose Hurtado Baeza! 👋
 
 ## 🚀 About Me
-I'm a **Computer Engineer** passionate about backend development and crafting solid software solutions. I'm dedicated to continuous learning and personal development, both in software engineering and in other areas of life. I graduated from the University of Alicante with a specialization in Information Technologies.
+I'm a **Computer Engineer** passionate about backend development and committed to creating innovative software solutions that deliver real value to the world.
+I'm dedicated to continuous learning and personal development, both in software engineering and in other areas of life. I graduated from the University of Alicante with a specialization in Information Technologies.
 
 
 ## 🔗 Links
