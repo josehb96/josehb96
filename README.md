@@ -9,14 +9,14 @@ I'm a **Computer Engineer** passionate about backend development and crafting so
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-hurtado-baeza-5406b4223/)
 
 
-## More about me
+## 📜 More about me
 👩‍💻 I'm currently working on a website project for a mechanical workshop company.
 
-🧠 I'm focused on specializing in Backend development with Golang.
+🌱 Specializing in Backend development with **Golang**.
 
 📫 How to reach me -> josehurtadobaeza@gmail.com
 
-Note: Check out the blog section on my portfolio to see my progress.
+Note: Check out the [blog](https://josehurtadobaeza.super.site/blog) section on my portfolio to see my progress.
 
 ## 📜 More About Me
 - 👨‍💻 Currently working on a [website project](https://josehurtadobaeza.super.site/projects/mechanical-workshop) for a mechanical and body and paint workshop company.
