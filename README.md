@@ -10,11 +10,11 @@ I'm a **Computer Engineer** passionate about backend development and crafting so
 
 
 ## 📜 More about me
-👩‍💻 I'm currently working on a website project for a mechanical workshop company.
+- 👩‍💻 Currently working on a website project for a mechanical workshop company.
 
-🌱 Specializing in Backend development with **Golang**.
+- 🌱 Specializing in Backend development with **Golang**.
 
-📫 How to reach me -> josehurtadobaeza@gmail.com
+- 📫 How to reach me -> josehurtadobaeza@gmail.com
 
 Note: Check out the [blog](https://josehurtadobaeza.super.site/blog) section on my portfolio to see my progress.
 
