@@ -15,11 +15,13 @@ I am a graduate of the University of Alicante in Computer Engineering with a spe
 
 
 ## More about me
-👩‍💻 I'm currently working on a website project for a mechanical and body and paint workshop company.
+👩‍💻 I'm currently working on a website project for a mechanical workshop company.
 
-🧠 I'm currently specializing in Backend development with Golang (You can check the blog section in my portfolio to see what I'm doing)
+🧠 I'm focused on specializing in Backend development with Golang.
 
 📫 How to reach me -> josehurtadobaeza@gmail.com
+
+Note: Check out the blog section on my portfolio to see my progress.
 
 ## 🛠 Skills
 ### Programming Languages
