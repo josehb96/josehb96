@@ -16,13 +16,6 @@ I'm a **Computer Engineer** passionate about backend development and crafting so
 
 - 📫 How to reach me -> josehurtadobaeza@gmail.com
 
-Note: Check out the [blog](https://josehurtadobaeza.super.site/blog) section on my portfolio to see my progress.
-
-## 📜 More About Me
-- 👨‍💻 Currently working on a [website project](https://josehurtadobaeza.super.site/projects/mechanical-workshop) for a mechanical and body and paint workshop company.
-- 🌱 Specializing in Backend development with **Golang**. Check out the [blog](https://josehurtadobaeza.super.site/blog) on my portfolio to see my latest posts.
-- 📫 Reach me at [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josehurtadobaeza@gmail.com).
-
 ## 🛠 Skills
 ### Programming Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
