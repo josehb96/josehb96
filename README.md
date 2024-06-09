@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Engineer** who love to work with Go, committed to creating innovative software solutions that deliver real value to the world.
+I'm a **Computer Engineer** who love to work with **Go**, committed to creating innovative software solutions that deliver real value to the world.
 I'm dedicated to continuous learning and personal development, both in software engineering and in other areas of life. I graduated from the University of Alicante with a specialization in Information Technologies.
 
 
@@ -16,7 +16,7 @@ I'm dedicated to continuous learning and personal development, both in software 
 
 - 👩‍💻 Currently working on a website project for a mechanical workshop company.
 
-- 🌱 Specializing in development with **Golang**.
+- 🌱 Currently learning Bootstrap 5.3 and VUE.js.
 
 - 📫 How to reach me -> josehurtadobaeza@gmail.com
 
