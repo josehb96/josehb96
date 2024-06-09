@@ -16,7 +16,7 @@ I'm dedicated to continuous learning and personal development, both in software 
 
 - 👩‍💻 Currently working on a website project for a mechanical workshop company.
 
-- 🌱 Specializing in Backend development with **Golang**.
+- 🌱 Specializing in development with **Golang**.
 
 - 📫 How to reach me -> josehurtadobaeza@gmail.com
 
