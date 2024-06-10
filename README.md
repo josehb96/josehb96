@@ -16,7 +16,7 @@ I'm dedicated to continuous learning and personal development, both in software 
 
 - 👩‍💻 Currently working on a website project for a mechanical workshop company.
 
-- 🌱 Currently learning Bootstrap 5.3 and VUE.js.
+- 🌱 Currently learning Bootstrap 5.3 and Vue.js.
 
 - 📫 How to reach me -> josehurtadobaeza@gmail.com
 
