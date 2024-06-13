@@ -2,9 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** who love to work with **Go**, committed to creating innovative software solutions that deliver real value to the world.
-I'm dedicated to continuous learning and personal development, both in software engineering and in other areas of life. 
-I graduated with a Bachelor's in Computer Science from the University of Alicante, specializing in Information Technologies.
+I'm a **Software Engineer** who love to work with **Go**, committed to creating innovative software solutions that deliver real value to the world. I'm dedicated to continuous learning and personal development, both in software engineering and in other areas of life.  I graduated with a Bachelor's in Computer Science from the University of Alicante, specializing in Information Technologies.
 
 
 ## 🔗 Links
