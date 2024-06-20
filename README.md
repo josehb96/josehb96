@@ -1,4 +1,5 @@
 # Hi, I'm Jose Hurtado Baeza! 👋
+![Foto](https://github.com/josehb96/josehb96/assets/90693993/36aa63dd-bdf4-47a4-a078-aac3b574bfff)
 
 ## 🚀 About Me
 
