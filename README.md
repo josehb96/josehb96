@@ -37,6 +37,7 @@ I'm a **Software Engineer** who love to work with **Go**, committed to creating 
 
 ### DevOps
 
+![Linux Badge](https://img.shields.io/badge/Linux-20B2AA?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
