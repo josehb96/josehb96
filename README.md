@@ -15,7 +15,7 @@ I'm a **Software Engineer** committed to creating innovative software solutions 
 
 - 👩‍💻 Currently working on a website project for a mechanical workshop company.
 
-- 🌱 Currently learning Bootstrap 5.3 and Vue.js.
+- 🌱 Currently learning Nuxt and Tailwind CSS.
 
 - 📫 How to reach me -> josehurtadobaeza@gmail.com
 
