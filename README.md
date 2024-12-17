@@ -21,7 +21,7 @@ I'm a **Software Engineer** committed to creating innovative software solutions 
 
 ## 🛠 Skills
 
-### Programming Languages
+### Programming Languages & Frameworks
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
