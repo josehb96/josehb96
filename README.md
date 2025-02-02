@@ -15,7 +15,7 @@ I'm a **Software Engineer** committed to creating innovative software solutions 
 
 - 👩‍💻 Currently working on a website project for a mechanical workshop company.
 
-- 🌱 Currently learning CI/CD.
+- 🌱 Currently learning about Nuxt SEO.
 
 - 📫 How to reach me -> josehurtadobaeza@gmail.com
 
