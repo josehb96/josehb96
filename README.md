@@ -52,4 +52,4 @@ I'm a **Software Engineer** committed to creating innovative software solutions 
 - 🔍 Critical Thinking
 - 📚 Continuous Learning
 
-*Note: I have experience in other technologies, but these are my preferences.* 🚀
+*Note: I have experience in other technologies, but these are my preferences.*
