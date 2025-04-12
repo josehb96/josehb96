@@ -2,8 +2,10 @@
 
 ## 🚀 About Me
 
-- I'm a **Software Engineer** in search of wealth and freedom. 
+- I'm a **Software Engineer** in search of wealth and freedom.
+   
 - I focus on serving others and providing them with value.
+  
 - I have a degree in computer science which doesn't matter.
 
 
