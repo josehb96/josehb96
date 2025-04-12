@@ -1,4 +1,4 @@
-Hi, I'm Jose Hurtado Baeza! 👋
+# Hi, I'm Jose Hurtado Baeza! 👋
 
 ## 🚀 About Me
 
