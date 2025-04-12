@@ -1,8 +1,8 @@
-# Hi, I'm Jose Hurtado Baeza! 👋
+![image](https://github.com/user-attachments/assets/2e7cde6e-0157-4bb3-b23f-5b4f1dfa45f0)# Hi, I'm Jose Hurtado Baeza! 👋
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** in search of wealth and freedom. I'm dedicated to continuous learning and personal development, both in software engineering and in other areas of life.  I graduated with a Bachelor's in Computer Science from the University of Alicante, specializing in Information Technologies.
+I'm a **Software Engineer** in search of wealth and freedom. I focus on serving others and providing them with value.  I graduated with a Bachelor's in Computer Science from the University of Alicante, specializing in Information Technologies.
 
 
 ## 🔗 Links
