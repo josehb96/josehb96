@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** in search of wealth and freedom. I focus on serving others and providing them with value.  I graduated with a Bachelor's in Computer Science from the University of Alicante, specializing in Information Technologies.
+I'm a **Software Engineer** in search of wealth and freedom. I focus on serving others and providing them with value. I have a degree in computer science although no one cares.
 
 
 ## 🔗 Links
