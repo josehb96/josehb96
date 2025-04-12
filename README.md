@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e7cde6e-0157-4bb3-b23f-5b4f1dfa45f0)# Hi, I'm Jose Hurtado Baeza! 👋
+Hi, I'm Jose Hurtado Baeza! 👋
 
 ## 🚀 About Me
 
