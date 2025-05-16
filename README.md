@@ -4,7 +4,7 @@
 
 - I'm a Software Engineer in search of wealth and freedom. 
 
-- I focus on creating websites with personality and not a boring wordpress one.
+- I focus on creating web applications with personality.
 
 - I have a degree in computer science which doesn't matter because it's more important what I have learned by myself.
 
