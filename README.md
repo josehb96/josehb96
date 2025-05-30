@@ -53,10 +53,4 @@
 
 *Note: I have experience in other technologies, but these are my preferences.*
 
-## More about me (NOBODY CARES)
-
-- 👩‍💻 Currently working on a website project for a mechanical workshop company.
-
-- 🌱 Currently learning about sales.
-
-- 📫 How to reach me -> josehurtadobaeza@gmail.com
+📫 How to reach me -> josehurtadobaeza@gmail.com
