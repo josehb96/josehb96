@@ -2,7 +2,7 @@
 
 ## About Me (Nobody cares)
 
-- I'm a Software Engineer. Yes, another one.
+- I'm a fool in search of freedom.
 
 - I create websites that sell. If you want to sell, contact me.
 
