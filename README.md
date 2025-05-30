@@ -1,10 +1,10 @@
 # Hi, I'm Jose Hurtado Baeza!
 
-## About Me (Nobody cares)
+## About Me (NOBODY CARES)
 
-- I'm a fool in search of freedom.
+- I'm a Software Engineer with fundamentals in finances and economics.
 
-- I create websites that sell. If you want to sell, contact me.
+- I create websites that sell. If you want one -> josehurtadobaeza@gmail.com
 
 - I have a degree in computer science which doesn't matter because it's more important what I have learned by myself.
 
@@ -53,7 +53,7 @@
 
 *Note: I have experience in other technologies, but these are my preferences.*
 
-## More about me (Nobody cares)
+## More about me (NOBODY CARES)
 
 - 👩‍💻 Currently working on a website project for a mechanical workshop company.
 
