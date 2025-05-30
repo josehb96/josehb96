@@ -1,5 +1,3 @@
-# Hi, I'm Jose Hurtado Baeza!
-
 ## About Me (NOBODY CARES)
 
 - I'm a Software Engineer with fundamentals in finances and economics.
