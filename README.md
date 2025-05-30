@@ -8,20 +8,11 @@
 
 - I have a degree in computer science which doesn't matter because it's more important what I have learned by myself.
 
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josehurtadobaeza.super.site/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-hurtado-baeza-5406b4223/)
 
-
-## More about me (Nobody cares)
-
-- 👩‍💻 Currently working on a website project for a mechanical workshop company.
-
-- 🌱 Currently learning about sales.
-
-- 📫 How to reach me -> josehurtadobaeza@gmail.com
 
 ## 🛠 Skills
 
@@ -61,3 +52,11 @@
 - 📚 Continuous Learning
 
 *Note: I have experience in other technologies, but these are my preferences.*
+
+## More about me (Nobody cares)
+
+- 👩‍💻 Currently working on a website project for a mechanical workshop company.
+
+- 🌱 Currently learning about sales.
+
+- 📫 How to reach me -> josehurtadobaeza@gmail.com
