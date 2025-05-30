@@ -1,10 +1,10 @@
-# Hi, I'm Jose Hurtado Baeza! 👋
+# Hi, I'm Jose Hurtado Baeza!
 
-## 🚀 About Me
+## About Me (Nobody cares)
 
-- I'm a Software Engineer in search of wealth and freedom. 
+- I'm a Software Engineer. Yes, another one.
 
-- I focus on creating web applications with personality.
+- I create websites that sell. If you want to sell, contact me.
 
 - I have a degree in computer science which doesn't matter because it's more important what I have learned by myself.
 
@@ -15,11 +15,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-hurtado-baeza-5406b4223/)
 
 
-## 📜 More about me
+## More about me (Nobody cares)
 
 - 👩‍💻 Currently working on a website project for a mechanical workshop company.
 
-- 🌱 Currently learning Astro.
+- 🌱 Currently learning about sales.
 
 - 📫 How to reach me -> josehurtadobaeza@gmail.com
 
