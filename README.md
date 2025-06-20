@@ -33,9 +33,9 @@
 ### Soft Skills
 
 - 🧐 Curiosity
-- 💬 Communication
 - 🔍 Critical Thinking
 - 📚 Continuous Learning
+- 💬 Communication
 
 *Note: I have experience in other technologies, but these are my preferences.*
 
