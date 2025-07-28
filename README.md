@@ -38,4 +38,4 @@
 
 *Note: I have experience in other technologies, but these are my preferences.*
 
-📫 How to reach me -> in/jose-hurtado-baeza-5406b4223
+📫 How to reach me -> linkedin.com/in/jose-hurtado-baeza-5406b4223
