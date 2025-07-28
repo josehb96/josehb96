@@ -2,8 +2,7 @@
 
 - I'm a Software Engineer with fundamentals in finances and economics.
 
-- I create websites that sell. If you want one -> josehurtadobaeza@gmail.com
-
+- I create websites that sell.
 - I have a degree in computer science which doesn't matter because it's more important what I have learned by myself.
 
 ## 🛠 Skills
