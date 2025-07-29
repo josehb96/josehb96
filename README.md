@@ -1,4 +1,4 @@
-## About Me (NOBODY CARES)
+## About Me
 
 - I'm a Software Engineer with fundamentals in finances and economics.
 - I have a degree in computer science which doesn't matter because it's more important what I have learned by myself.
