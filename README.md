@@ -1,7 +1,7 @@
 ## About Me
 
 - I'm a Software Engineer with fundamentals in finances and economics.
-- I have a degree in computer science, but honestly it's more important what I have learned by myself.
+- I have a degree in computer science, but honestly, it's more important what I have learned by myself.
 
 ## 🛠 Skills
 
